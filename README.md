@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Yadav</h1>
 <h3 align="center">A passionate Web Creator from India</h3>
 
-<img align="right" alt="coding" width="400" scr="![image](https://github.com/Aakash8879/aakash8879/assets/112482523/af440877-d11a-4791-9f98-89506df8fb5b)
+<img align="right" alt="coding" width="400" scr="https://github.com/Aakash8879/aakash8879/assets/112482523/af440877-d11a-4791-9f98-89506df8fb5b
 ">
 
 - 🌱 I’m currently learning ****JavaScript, React.js, DSA in Python****
